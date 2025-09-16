@@ -1,0 +1,3 @@
+Vamos a practicar reemplazar ifs utilizando polimorfismo siguiendo los pasos vistos durante el curso de forma metódica, partiendo de ejercicios muy pequeños de juguete construidos para que aparezcan muchas de las dificultades comunes de seguirlos y analizar las diversas decisiones a tomar.
+
+Seguir el orden, primero sacar ifs del 0, luego del 1, luego del 2, etc... El 3 y el 4 son combinaciones de los anteriores, y particularmente en el 4 hay que tener un poquito más de cuidado con la validez del modelo resultante de seguir los pasos de forma mecánica tal como se pide. Todos los ifs estaban bien escritos en primer lugar? Qué pasa si no es así?
